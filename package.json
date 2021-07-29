@@ -1,0 +1,31 @@
+{
+  "name": "react-calculator",
+  "version": "1.1.0",
+  "description": "react-calculator",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "mathjs": "^9.4.1",
+    "react": "^17.0.2",
+    "react-dom": "16.8.3",
+    "react-scripts": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "elizaveta yakovleva",
+  "license": "ISC",
+  "homepage": ""
+}
